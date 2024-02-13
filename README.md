@@ -2,9 +2,11 @@
 
 Todos os desafios de curso aqui apresentados fazem parte do "Bootcamp Coding The Future NTT Data - Desenvolvimento BackEnd com Kotlin", na plataforma da DIO (Digital Innovation One), que ocorreu no período de Janeiro a Fevereiro de 2024.
 
-Os códigos foram desenvolvidos diretamente na versão web
+Os códigos foram desenvolvidos no Kotlin Playground.
 
-Cada arquivo Kotlin de desafio possui um arquivo de texto com as orientações e que recebeu o mesmo nome do desafio a ser realizado.
+Para cada arquivo Kotlin de desafio, há um arquivo de texto com as orientações, assim como prints de tela mostrando o código e os testes realizados através da plataforma da DIO. 
+
+Para melhor compreensão, todos os arquivos receberam também o nome do arquivo Kotlin.
 
 
 ## Desafios que foram feitos no curso "Praticando sua lógica de programação com Kotlin". 
